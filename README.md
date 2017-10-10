@@ -7,7 +7,7 @@ Remarks:
 IOS 11 (and up )
 This Demo works in LandscapeRight (HomeButton on right side)
 
-OCR is trained for Font "INCONSOLATA" (downloadable at Google Fonts)
+OCR is ONLY trained for Font "INCONSOLATA" (downloadable at Google Fonts)
 
 ToDo:
 
